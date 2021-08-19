@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NikhilAndola/todos-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/NikhilAndola/todos-react/static/js/main.ad2fb2fe.chunk.js",
+    "main.js.map": "/NikhilAndola/todos-react/static/js/main.ad2fb2fe.chunk.js.map",
+    "runtime-main.js": "/NikhilAndola/todos-react/static/js/runtime-main.20a5bd4a.js",
+    "runtime-main.js.map": "/NikhilAndola/todos-react/static/js/runtime-main.20a5bd4a.js.map",
+    "static/js/2.71e767b4.chunk.js": "/NikhilAndola/todos-react/static/js/2.71e767b4.chunk.js",
+    "static/js/2.71e767b4.chunk.js.map": "/NikhilAndola/todos-react/static/js/2.71e767b4.chunk.js.map",
+    "static/js/3.c54e16f4.chunk.js": "/NikhilAndola/todos-react/static/js/3.c54e16f4.chunk.js",
+    "static/js/3.c54e16f4.chunk.js.map": "/NikhilAndola/todos-react/static/js/3.c54e16f4.chunk.js.map",
+    "index.html": "/NikhilAndola/todos-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/NikhilAndola/todos-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.71e767b4.chunk.js.LICENSE.txt": "/NikhilAndola/todos-react/static/js/2.71e767b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20a5bd4a.js",
+    "static/js/2.71e767b4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ad2fb2fe.chunk.js"
+  ]
+}
